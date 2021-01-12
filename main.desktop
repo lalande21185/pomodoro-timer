@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Pomodoro Timer
+Comment=Pomodoro Timer
+Exec=main
+Icon=icon.png
+Type=Application
